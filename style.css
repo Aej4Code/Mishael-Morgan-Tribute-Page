@@ -1,0 +1,37 @@
+
+h1,h2,h3{
+  color: #000000;
+  font-family: Georgia;
+}
+
+p{
+  font-family : Georgia;
+  font-style: oblique;
+  text-align:text-center;
+  color: #000000;
+}
+
+.silver-background{
+  background-color:#F0FFF0;
+  margin: 50px;auto;
+  display : block;
+
+}
+.larger-image{
+  width: 500px;
+  margin-bottom: 10px;
+
+  float:initial;
+}
+.container{
+  width:1050px;
+  background-color:#F0FFF0;
+}
+.row1,.row2,.row3,.row4,.row5,.row6{
+  margin-top:15px;
+  
+ 
+}
+body {
+    background: linear-gradient(to top left, #ffcc99 0%, #669999 100%);
+}
